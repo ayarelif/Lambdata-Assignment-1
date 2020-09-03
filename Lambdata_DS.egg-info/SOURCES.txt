@@ -1,0 +1,9 @@
+README.md
+setup.py
+Lambdata_DS.egg-info/PKG-INFO
+Lambdata_DS.egg-info/SOURCES.txt
+Lambdata_DS.egg-info/dependency_links.txt
+Lambdata_DS.egg-info/top_level.txt
+my_lambdata/__init__.py
+my_lambdata/ds_utilities.py
+my_lambdata/test_functions.py
